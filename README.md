@@ -12,12 +12,12 @@ The eBook Dashboard is a product designed for small ebook publishers who sell fr
 The preloaded titles are from the small ebook publisher [Belgrave House/Regency Reads](http://www.belgravehouse.com/ "Belgrave House/Regency Reads")
 
 ###Built With
-Node.js
-Express
-Apple/iTunes Store Search API
-Postgres
-Sequelize
-Passport
+* Node.js
+* Express
+* Apple/iTunes Store Search API
+* Postgres
+* Sequelize
+* Passport
 
 ###Find it Here:
 [http://ebook-dashboard.herokuapp.com/](http://ebook-dashboard.herokuapp.com/ "http://ebook-dashboard.herokuapp.com/")
